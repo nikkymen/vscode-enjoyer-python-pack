@@ -1,0 +1,26 @@
+{
+  "name": "enjoyer-python-pack",
+  "publisher": "nikkymen",
+  "displayName": "Enjoyer Python Pack",
+  "description": "Best extensions for Python development",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikkymen/vscode-enjoyer-python-pack"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "preview": true,
+  "icon": "images/logo.png",
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.debugpy",
+    "ms-python.vscode-pylance",
+    "charliermarsh.ruff",
+    "tamasfe.even-better-toml"
+  ]
+}
