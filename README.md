@@ -1,3 +1,3 @@
-Best extensions for C++ development.
+Best extensions for Python development.
 
 Enjoy it!
