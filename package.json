@@ -21,6 +21,7 @@
     "ms-python.debugpy",
     "ms-python.vscode-pylance",
     "charliermarsh.ruff",
-    "tamasfe.even-better-toml"
+    "tamasfe.even-better-toml",
+    "elazarcoh.simply-view-image-for-python-debugging"
   ]
 }
